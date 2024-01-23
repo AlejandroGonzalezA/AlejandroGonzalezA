@@ -4,7 +4,7 @@
 I am a third-year student at Universitat Pompeu Fabra, in Barcelona. I am coursing the Double Degree on Computer Engineering and Mathematical Engineering on Data Science. I am passionate about developing software, and I find data analysis, web development and videogames development the most interesting fields in the sector.
 
 ### 🌐 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](www.linkedin.com/in/alejandro-gonzalez-alvarez-6123382b0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-gonzalez-alvarez-6123382b0/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:alex41596@gmail.com)
 
 ### 💻 Languages
